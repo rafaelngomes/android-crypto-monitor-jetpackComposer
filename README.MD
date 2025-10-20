@@ -41,9 +41,11 @@ Criar uma base escalável para futuras melhorias e novas funcionalidades
 
 ## 📱 Screenshots do Aplicativo
 
+### Tela de Login
+![Tela de Login](app/assets/Captura%20de%20tela%202025-10-19%20213808.png)
 
-<img src="https://raw.githubusercontent.com/rafaelngomes/android-crypto-monitor-jetpackComposer/main/Captura%20de%20tela%202025-10-19%20213808.png" width="200" alt="">
-<img src="https://raw.githubusercontent.com/rafaelngomes/android-crypto-monitor-jetpackComposer/main/Captura%20de%20tela%202025-10-19%20213824.png" width="200" alt="">
-<img src="https://raw.githubusercontent.com/rafaelngomes/android-crypto-monitor-jetpackComposer/main/Captura%20de%20tela%202025-10-19%20213900.png" width="200" alt="">
+### Valor das Criptomoedas
+![Valor Criptomoedas](app/assets/Captura%20de%20tela%202025-10-19%20213824.png)
 
-
+### Após Atualizar
+![Após Atualizar](app/assets/Captura%20de%20tela%202025-10-19%20213900.png)
