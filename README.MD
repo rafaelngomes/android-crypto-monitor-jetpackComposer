@@ -42,7 +42,7 @@ Criar uma base escalável para futuras melhorias e novas funcionalidades
 ## 📱 Screenshots do Aplicativo
 
 
-| <img src="https://github.com/rafaelngomes/android-crypto-monitor-jetpackComposer/blob/main/Captura%20de%20tela%202025-10-19%20213808.png" width="200"/> 
-| <img src="https://github.com/rafaelngomes/android-crypto-monitor-jetpackComposer/blob/main/Captura%20de%20tela%202025-10-19%20213824.png" width="200"/> 
-| <img src="https://github.com/rafaelngomes/android-crypto-monitor-jetpackComposer/blob/main/Captura%20de%20tela%202025-10-19%20213900.png" width="200"/> |
+<img src="https://github.com/rafaelngomes/android-crypto-monitor-jetpackComposer/blob/main/Captura%20de%20tela%202025-10-19%20213808.png" width="200"/> 
+<img src="https://github.com/rafaelngomes/android-crypto-monitor-jetpackComposer/blob/main/Captura%20de%20tela%202025-10-19%20213824.png" width="200"/> 
+<img src="https://github.com/rafaelngomes/android-crypto-monitor-jetpackComposer/blob/main/Captura%20de%20tela%202025-10-19%20213900.png" width="200"/> 
 
